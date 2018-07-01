@@ -8,5 +8,7 @@ module.exports = {
       else
         console.error("NO mutch for: "+reg+" in: "+name);
     });
-  }
+  },
+  exact : "to be continued",
+  format : "to be continued"
 }
