@@ -1,0 +1,27 @@
+{
+  "name": "file-list-rename",
+  "version": "1.0.0",
+  "description": "rename files in a folder to match needed sequence",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon constructor.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grenudi/file-list-rename.git"
+  },
+  "keywords": [
+    "rename",
+    "a",
+    "list",
+    "of",
+    "files"
+  ],
+  "author": "grenudi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grenudi/file-list-rename/issues"
+  },
+  "homepage": "https://github.com/grenudi/file-list-rename#readme"
+}
